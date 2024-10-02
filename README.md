@@ -1,7 +1,7 @@
 - Hi, I’m Mert as a ninjacowboy
 - I'm a Ahmet Yesevi University Computer Programming student, also i'm taking the Google Ux Design course
 - I’m interested in Game development, Web development and Ui/Ux designs.
-- I’m currently learning C#
+- I’m currently learning C, C++, C#, HTML, CSS
 - I’m looking to collaborate on a website idea and some game ideas.
 - mertenginra@gmail.com
 
