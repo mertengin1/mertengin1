@@ -1,8 +1,10 @@
-- Hi, I’m Mert as a ninjacowboy
-- I'm a Ahmet Yesevi University Computer Programming student, also i'm taking the Google Ux Design course
+- Hi, I’m Mert
+- Ahmet Yesevi University Computer Programming student, also working as a receptionist
 - I’m interested in Game development, Web development and Ui/Ux designs.
-- I’m currently learning C, C++, C#, HTML, CSS
-- I’m looking to collaborate on a website idea and some game ideas.
+- I’m currently learning C, C#, HTML, CSS, Unity, Unreal Engine 5 and more.
+- I’m looking to collaborate on a game ideas.
+- I've only published two games so far, but there are over 38 minor ones that I haven't finished.
+- https://mertengin.itch.io/
 - mertenginra@gmail.com
 
 
